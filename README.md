@@ -51,5 +51,5 @@ I will continue working to perfect my skills in HTML, CSS, Javascript and React 
 ## Author
 
 - Website - [https://github.com/Nelav99]
-- Frontend Mentor - [@Nelav99]
+- Frontend Mentor - [@Nelav99](https://www.frontendmentor.io/profile/Nelav99)
 - Linkedin - [https://www.linkedin.com/in/valent%C3%ADn-far%C3%ADas-aa0282147]
