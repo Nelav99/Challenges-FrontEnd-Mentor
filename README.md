@@ -45,11 +45,17 @@ I will continue working to perfect my skills in HTML, CSS, Javascript and React 
 
 ### Useful resources
 
-- [](https://platzi.com/web-frontend/?school=_escuela_escuela-web_)
+- [HTML & CSS Path (Spanish)](https://platzi.com/web-frontend/?school=_escuela_escuela-web_)
 - This is an amazing learning path, which helped me finally understand HTML, CSS (grid and flexbox). I would recommend it to anyone who is still learning these concepts.
+
+- [HTML for Beginners (English)](https://www.youtube.com/watch?v=kUMe1FH4CHE)
+- This is an amazing video, which helped me understand HTML. I would recommend it to anyone person who is start learning these concepts. So you can learn HTML5, semantic HTML, tags, and more.
+
+- [CSS for Beginners (English)](https://www.youtube.com/watch?v=OXGznpKZ_sA)
+- This is an amazing video, which helped me understand CSS, Flexbox and CSS Grid. I would recommend it to anyone who is still learning these concepts.
 
 ## Author
 
-- Website - [https://github.com/Nelav99]
+- Website - [GitHub](https://github.com/Nelav99)
 - Frontend Mentor - [@Nelav99](https://www.frontendmentor.io/profile/Nelav99)
-- Linkedin - [https://www.linkedin.com/in/valent%C3%ADn-far%C3%ADas-aa0282147]
+- Linkedin - [Profile](https://www.linkedin.com/in/valent%C3%ADn-far%C3%ADas-aa0282147)
